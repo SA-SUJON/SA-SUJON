@@ -59,33 +59,8 @@ const SUJON = {
 
 ---
 
-## GitHub Stats
-
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SA-SUJON&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SA-SUJON&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=SA-SUJON&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SA-SUJON&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SA-SUJON/SA-SUJON/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<p align="center">
-  <sub>Student · Developer · AI Researcher — Chittagong, Bangladesh</sub>
+  <sub>Student · Developer · AI Researcher</sub>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer&animation=fadeIn"/>
