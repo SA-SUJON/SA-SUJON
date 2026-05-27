@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=180&section=header&text=Samsul%20Arefin%20Sujon&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Student%20·%20Developer%20·%20AI%20Researcher&descSize=16&descAlignY=65&descColor=aaaaaa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=180&section=header&text=SAMSUL%20AREFIN%20SUJON&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Student%20·%20Developer%20·%20AI%20Researcher&descSize=16&descAlignY=65&descColor=aaaaaa"/>
 
 <br>
 
@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/SAMSUL_AREFIN_SUJON"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>&nbsp;
   <a href="mailto:imsamsularefinsujon@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://x.com/im_SA_SUJON"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
   <a href="https://www.facebook.com/im.SASujon"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp;
+  <a href="https://t.me/SAMSUL_AREFIN_SUJON"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>&nbsp;
+  <a href="https://x.com/im_SA_SUJON"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
   <a href="https://www.instagram.com/this.is__sa_sujon"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=SA-SUJON&label=Profile+Views&color=58A6FF&style=flat-square"/>
 </p>
