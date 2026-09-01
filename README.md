@@ -23,14 +23,14 @@ const SUJON = {
   name        : "SAMSUL AREFIN SUJON",
   location    : "Chittagong, Bangladesh",
   roles       : ["Student", "Developer", "AI Researcher"],
-  currentWork : "TradesMen — Business Management Platform",
+  currentWork : "TradesMen", "JARVIS", "VISION", "QBooK".
   interests   : ["AI & LLM Agents", "Space Exploration", "Quantum Physics", "Open Source"],
   stack : {
-    languages : ["JavaScript", "TypeScript", "Python", "Bash"],
+    languages : ["JavaScript", "TypeScript", "Python", "Kotlin", "C++", "Assembly", "Rust"],
     frontend  : ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
     backend   : ["Node.js", "Express", "Baileys"],
     databases : ["MongoDB", "Redis", "Upstash Vector"],
-    ai        : ["Gemini API", "Anthropic Claude"],
+    ai        : ["Google Gemini", "Anthropic Claude", "OpenAI ChatGPT", "BUTTERFLY EFFECT Manus AI"],
     devops    : ["Render", "Vercel", "GitHub Actions", "Cloudflare"],
   },
   motto : "Explore. Build. Break. Rebuild. Dominate.",
@@ -55,7 +55,7 @@ const SUJON = {
 | Project | Description | Stack |
 |---|---|---|
 | **TradesMen** | Business management tool — web platform | Node.js · MongoDB · Express · Render |
-| **TradesMen Android** | Native Android client for TradesMen | Next.js · Tailwind · Framer Motion |
+| **JARVIS** | Talk naturally as if JARVIS is a third person in the room | Next.js · Python · HTML |
 
 ---
 
